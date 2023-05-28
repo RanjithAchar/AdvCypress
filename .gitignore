@@ -1,0 +1,11 @@
+/allure-report
+/allure-results
+/atestCase
+/FetchData.js
+/node_modules
+/npm
+/package-lock.json
+/runner-results
+/test-report
+/test-results.xml
+/xunit.xml
